@@ -1,11 +1,14 @@
 {
   "users": {
     "8508361130": {
-      "username": "Melexuh",
+      "username": "MelexuhID",
       "role": "developer",
-      "roleName": "👑 DEVELOPER",
-      "addedAt": "2026-01-01"
+      "roleName": "🔧 DEV",
+      "addedAt": "2026-05-15",
+      "addedBy": "system"
     }
   },
-  "history": []
+  "history": [],
+  "upgrades": [],
+  "tokens": []
 }
