@@ -1,85 +1,17 @@
-{
-  "users": {
-    "8508361130": {
-      "username": "MelexuhID",
-      "role": "developer",
-      "roleName": "DEV",
-      "addedAt": "2026-05-16",
-      "addedBy": "system"
-    },
-    "8423941561": {
-      "username": "chokszz",
-      "role": "owner",
-      "roleName": "OWNER",
-      "addedAt": "2026-05-16",
-      "addedBy": "8508361130"
-    }
-  },
-  "history": [
-    {
-      "kode": "STB-1734567890-ABC123",
-      "seller": "chokszz",
-      "sellerId": "8423941561",
-      "buyer": "buyer1",
-      "buyerId": "1234567890",
-      "role": "FULL UP",
-      "stor": 3000,
-      "hargaRole": 10000,
-      "waktu": "16/05/2026 15:30:00",
-      "approvedBy": "MelexuhID"
-    },
-    {
-      "kode": "STB-1734567891-DEF456",
-      "seller": "chokszz",
-      "sellerId": "8423941561",
-      "buyer": "buyer2",
-      "buyerId": "9876543210",
-      "role": "RESELLER",
-      "stor": 5000,
-      "hargaRole": 20000,
-      "waktu": "16/05/2026 16:00:00",
-      "approvedBy": "MelexuhID"
-    }
-  ],
-  "upgrades": [
-    {
-      "userId": "1234567890",
-      "username": "buyer1",
-      "fromRole": "fullup",
-      "toRole": "reseller",
-      "harga": 15000,
-      "seller": "chokszz",
-      "sellerId": "8423941561",
-      "approvedBy": "MelexuhID",
-      "approvedAt": "16/05/2026 17:00:00"
-    }
-  ],
-  "tokens": [
-    {
-      "token": "SC-1734567890-ABC123",
-      "role": "noup",
-      "usedBy": [],
-      "createdAt": "16/05/2026 14:00:00",
-      "createdBy": "8508361130",
-      "createdByUsername": "MelexuhID"
-    },
-    {
-      "token": "SC-1734567891-DEF456",
-      "role": "noup",
-      "usedBy": [
-        {
-          "userId": "5555555555",
-          "username": "pembeli_sc",
-          "usedAt": "16/05/2026 18:00:00"
-        }
-      ],
-      "createdAt": "16/05/2026 15:00:00",
-      "createdBy": "8423941561",
-      "createdByUsername": "chokszz"
-    }
-  ],
-  "rejoinCount": {
-    "1234567890": 1,
-    "9876543210": 2
-  }
-}
+melexuh-database / database.json
+
+1  {
+2    "users": {
+3      "8508361130": {
+4        "username": "MelexuhID",
+5        "role": "developer",
+6        "roleName": "King",
+7        "addedAt": "2026-05-16",
+8        "addedBy": "system"
+9      }
+10   },
+11   "history": [],
+12   "upgrades": [],
+13   "tokens": [],
+14   "rejoinCount": {}
+15 }
