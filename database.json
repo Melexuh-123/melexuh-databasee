@@ -1,17 +1,14 @@
-melexuh-database / database.json
-
-1  {
-2    "users": {
-3      "8508361130": {
-4        "username": "MelexuhID",
-5        "role": "developer",
-6        "roleName": "King",
-7        "addedAt": "2026-05-16",
-8        "addedBy": "system"
-9      }
-10   },
-11   "history": [],
-12   "upgrades": [],
-13   "tokens": [],
-14   "rejoinCount": {}
-15 }
+{
+  "users": {},
+  "history": [],
+  "upgrades": [],
+  "tokens": [
+    {
+      "token": "8753834105:AAFYo18S6HwggwJoHjs2h-4C_xGnNOWDfZ8",
+      "createdAt": "17/5/2026, 06.13.10",
+      "createdBy": 8508361130,
+      "createdByUsername": "MelexuhID"
+    }
+  ],
+  "rejoinCount": {}
+}
