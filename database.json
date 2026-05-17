@@ -1,22 +1,15 @@
 {
   "users": {
-    "UNRESOLVED_OFFICIALL_SUPPORTT_BINANCEE_02": {
-      "username": "officiall_supportt_binancee_02",
-      "role": "owner",
-      "roleName": "OWNER",
-      "addedBy": 8508361130,
-      "addedAt": "17/5/2026, 08.50.01"
+    "8508361130": {
+      "username": "MelexuhID",
+      "role": "developer",
+      "roleName": "DEV",
+      "addedAt": "5/17/2026, 9:06:26 AM",
+      "addedBy": "system"
     }
   },
   "history": [],
   "upgrades": [],
-  "tokens": [
-    {
-      "token": "8753834105:AAFYo18S6HwggwJoHjs2h-4C_xGnNOWDfZ8",
-      "createdAt": "17/5/2026, 06.13.10",
-      "createdBy": 8508361130,
-      "createdByUsername": "MelexuhID"
-    }
-  ],
+  "tokens": [],
   "rejoinCount": {}
 }
