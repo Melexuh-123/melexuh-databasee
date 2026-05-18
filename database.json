@@ -10,6 +10,13 @@
   },
   "history": [],
   "upgrades": [],
-  "tokens": [],
+  "tokens": [
+    {
+      "token": "8917989160:AAEqn9qwL2fvZZfd9Ffwz3G9SuJJr88cZ-4",
+      "createdAt": "18/5/2026, 13.34.46",
+      "createdBy": 8508361130,
+      "createdByUsername": "MelexuhID"
+    }
+  ],
   "rejoinCount": {}
 }
