@@ -1,4 +1,9 @@
 {
+  "tokens": [
+    "SC-1779193279062-BDOESP1X",
+    "8655415647:AAHIZR0m--TumVmUPItff8DOYVI_WPAW9F4V",
+    "8917989160:AAEqn9qwL2fvZZfd9Ffwz3G9SuJJr88cZ-4"
+  ],
   "users": {
     "8508361130": {
       "username": "MelexuhID",
@@ -6,47 +11,9 @@
       "roleName": "DEV",
       "addedAt": "5/19/2026, 12:21:12 PM",
       "addedBy": "system"
-    },
-    "null": {
-      "username": "officiall_supportt_binancee_02",
-      "role": "tangan_kanan",
-      "roleName": "TK",
-      "addedAt": "5/19/2026, 12:22:08 PM",
-      "addedBy": 8508361130
-    },
-    "8423941561": {
-      "username": "officiall_supportt_binancee_02",
-      "role": "reseller",
-      "roleName": "RESELLER",
-      "addedBy": 8508361130,
-      "addedAt": "19/5/2026, 12.28.16"
     }
   },
-  "history": [
-    {
-      "kode": "STB-1779193309802-ADUNE0",
-      "seller": "MelexuhID",
-      "buyer": "officiall_supportt_binancee_02",
-      "role": "TK",
-      "stor": 10000,
-      "waktu": "5/19/2026, 12:21:49 PM",
-      "approvedBy": "MelexuhID"
-    }
-  ],
+  "history": [],
   "upgrades": [],
-  "tokens": [
-    {
-      "token": "SC-1779193279062-8DOESP1X",
-      "createdAt": "5/19/2026, 12:21:19 PM",
-      "createdBy": 8508361130,
-      "createdByUsername": "MelexuhID"
-    },
-    {
-      "token": "8655415647:AAHIZR0m--TumVmUPltff8DOYVI_WPAw95I",
-      "createdAt": "19/5/2026, 14.36.14",
-      "createdBy": 8508361130,
-      "createdByUsername": "MelexuhID"
-    }
-  ],
   "rejoinCount": {}
 }
